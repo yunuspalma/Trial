@@ -13,8 +13,12 @@ https://cdn10jtedge.indihometv.com/atm/hlsv3/METRO_TV/METRO_TV-avc1_1200000=9-mp
 https://cdn13jtedge.indihometv.com/atm/hlsv3/KOMPAS_TV/KOMPAS_TV-avc1_1200000=8-mp4a_96000=2.m3u8?encp=SsqCuDRhYgr3iBO4TLHLkg&uid=&expp=1728297580
 #EXTINF:0 tvg-logo="http://yunus12.my.id/useetvlogo/indosiar.png" group-title="Local",Indosiar
 https://cdn09jtedge.indihometv.com/atm/hlsv3/indosiar/indosiar-avc1_1200000=4-mp4a_96000=2.m3u8?encp=Ad4YPzAPzX_rNkWCuera-g&uid=&expp=1728298001
-
-
+#EXTINF:0 tvg-logo="http://yunus12.my.id/useetvlogo/logo_net.png" group-title="Local",Net
+https://cdn09jtedge.indihometv.com/joss/133/bumperslate/chunklist_w424691353_b894100_sleng.m3u8?enc=YMPUZ7L6Zs-2hPraeWQZpw&uid=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiIzZGY1ZDRhOS0zOWE2LWY3ZDMyLTc1YzUyNGZhZWE2ZiIsImVtYWlsIjoib3JnYW5pemVya2JtQGdtYWlsLmNvbSIsImxvZ2luU3RhdHVzIjp0cnVlLCJzdWJzY3JpYmVyX2lkIjoiMjUwODQ4MSIsImZ1bGxuYW1lIjoiQUhNQUQgWVVOVVMiLCJkZXZpY2VJZCI6IloyVjBYMlJsZG1salpWOXBaSHd4T0RBdU1qUXlMakl6TkM0eU1UWXROalpCTXpRNU1VRTROalkwT0E9PSIsImlkIjozNzQ3MCwiZXhwIjoxNzI4Mjk0NzI2LCJpYXQiOjE3MjgyOTExMjYsImlzcyI6IlVzZWVUVkdPIn0.z27Lt-Uqlw01AO8XvNZNDAMUyDyvxZqYnnWIKyLGtEMMYf98ljZYoaiJqsYYCUIcCtMzXQajTfvPkaAY9htYkvzv-5-MXkFLS_mpb3dihtwbi1zaA755fx7OFtwmbpY0aQ_3oQCmtVWqcCl7paE9jFYdNNEN7kynijn8nmFyLzhSvhyr5I-FGpIFh1917h4v5564k2iqH-h6GR6AJU7_TnAYuJF8QTUM_BIbpoq3KiY_YfcOd8j3yxmY7yIfr8_2Cl4VGd-ruGVvWIUqYt_Se9oyBWJsDWO7WDU_cDSNkBvquG_SmYzqST80mNLxTPQAgWTVDFV7x-rOSn1MbrsGHvX8DoLJaEAYWkVdYNGMYlP4UT8legYEt7SMJ_I4X8Qk8lyks5bOAZScPuU20QaaI2NGw4K_4ZR-9N9UCDNELF3CtX3lkxIbtHur84PgiYSWkArPfzb9Vyclxq3vcJv-KKF4ksb9WIYwu02qE8IWBmy_m4IXk2LoKyXUi2Wqd0W5Y5DAEA9Nir8jsPoy4Uh5u7BjZPFS7s_uH75Q9aqzjCbq5PJ55miwqghyVhcXNm7govzBQj1o1pjmGcHDqjlMiuc7_W_CmD3dz43KvloJwJI4r3ZSSPkIlObgSJOvtafvOkaivJDMKfZEuVoxxDXHcks5WerzCcLiYQPfPfagyqE&exp=1728300493
+#EXTINF:0 tvg-logo="http://yunus12.my.id/useetvlogo/SINDONEWSTV.png" group-title="Local",SindoNews
+https://cdn13jtedge.indihometv.com/atm/hlsv3/mncnews/mncnews-avc1_1200000=4-mp4a_96000=2.m3u8?encp=oEEgT-BfT0WyfyKWOk8J2A&uid=&expp=1728302445
+#EXTINF:0 tvg-logo="https://images.indihometv.com/logo_nusantaratv_small.png?v=1.1" group-title="Local",Nusantara TV
+https://cdn11jtedge.indihometv.com/atm/hlsv3/nusantaratv/nusantaratv-avc1_1200000=4-mp4a_96000=5.m3u8?encp=I7T_znKswcS_7aXylCRG5w&uid=&expp=1728302562
 #EXTINF:-1 tvg-logo="http://yunus12.my.id/useetvlogo/inews.png" group-title="News",INews
 https://cdn09jtedge.indihometv.com/atm/hlsv3/inews/inews-avc1_1200000=13-mp4a_96000=5.m3u8?encp=URZi1pAdCNX1BM5CuO22Sg&uid=&expp=1728297740
 
