@@ -53,8 +53,9 @@ https://streaming.indihometv.com/joss/194/maxstream/playlist.m3u8
 #EXTINF:0 tvg-logo="http://yunus12.my.id/useetvlogo/chinesedrama.png" group-title="Movies HD",Chinese Drama
 https://streaming.indihometv.com/joss/130/chinesedrama/playlist.m3u8
 
-
-
+#EXTINF:0 tvg-logo="http://yunus12.my.id/useetvlogo/bioskopindonesia.png" group-title="Movies HD",Bioskop Indonesia
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://cdn12jtedge.indihometv.com/dass/107/bioskopindonesia/manifest_wuseetv.mpd?encp=DMN9PcDxld1hr1AuBrmouw&uid=&expp=1728373631
 
 #EXTINF:0 tvg-logo="http://yunus12.my.id/useetvlogo/MON.png" group-title="Kids",Moonbug
 https://streaming.indihometv.com/joss/134/moonbug/playlist.m3u8
