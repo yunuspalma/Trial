@@ -1,8 +1,19 @@
 #EXTM3U
+
+
+
+
+
+#EXTINF:0 tvg-logo="http://yunus12.my.id/useetvlogo/ALLPLAY.png" group-title="Local",AllPlay
+https://streaming.indihometv.com/atm/hlsv3/useeprime/playlist.m3u8
+#EXTINF:0 tvg-logo="http://yunus12.my.id/useetvlogo/logo_tvri.png" group-title="Local",TVRI
+https://streaming.indihometv.com/atm/hlsv3/TVRI/playlist.m3u8
 #EXTINF:0 tvg-logo="http://yunus12.my.id/useetvlogo/tvone.png" group-title="Local",TV One
 https://streaming.indihometv.com/atm/hlsv3/tvone/playlist.m3u8
 #EXTINF:0 tvg-logo="http://yunus12.my.id/useetvlogo/sctv.png" group-title="Local",SCTV
 https://streaming.indihometv.com/atm/hlsv3/sctv/playlist.m3u8
+#EXTINF:0 tvg-logo="http://yunus12.my.id/useetvlogo/logo_antvnew.png" group-title="Local",ANTV
+https://streaming.indihometv.com/atm/hlsv3/ANTV/playlist.m3u8
 #EXTINF:0 tvg-logo="http://yunus12.my.id/useetvlogo/logo_transtv.png" group-title="Local",TransTV
 https://streaming.indihometv.com/atm/hlsv3/transtv/playlist.m3u8
 #EXTINF:0 tvg-logo="http://yunus12.my.id/useetvlogo/logo_trans7.png" group-title="Local",Trans7
@@ -31,8 +42,8 @@ https://streaming.indihometv.com/atm/hlsv3/beritasatu/playlist.m3u8
 https://streaming.indihometv.com/atm/hlsv3/JAK_TV/playlist.m3u8
 #EXTINF:0 tvg-logo="http://yunus12.my.id/useetvlogo/rtv.png" group-title="Local",RTV
 https://streaming.indihometv.com/atm/hlsv3/RAJAWALI_TV/playlist.m3u8
-
-
+#EXTINF:0 tvg-logo="https://images.indihometv.com/assets/1706756492_JAWAPOSTV-88-HD.png" group-title="Local",Jawa Pos
+https://streaming.indihometv.com/atm/hlsv3/jawapos/playlist.m3u8
 
 
 #EXTINF:0 tvg-logo="http://yunus12.my.id/useetvlogo/prambors.png" group-title="Music",Prambors
@@ -53,12 +64,7 @@ https://streaming.indihometv.com/joss/194/maxstream/playlist.m3u8
 #EXTINF:0 tvg-logo="http://yunus12.my.id/useetvlogo/chinesedrama.png" group-title="Movies HD",Chinese Drama
 https://streaming.indihometv.com/joss/130/chinesedrama/playlist.m3u8
 
-#EXTINF:0 tvg-logo="http://yunus12.my.id/useetvlogo/bioskopindonesia.png" group-title="Movies HD",Bioskop Indonesia
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5KI1mwVWM5nx2a385kFySg", "kid":"aWRrdV8xMDAwMDAwMDAwMA" } ], "type":"temporary" }
-https://cdn12jtedge.indihometv.com/dass/107/bioskopindonesia/manifest_wuseetv.mpd?encp=DMN9PcDxld1hr1AuBrmouw&uid=&expp=1728373631
+
 
 #EXTINF:0 tvg-logo="http://yunus12.my.id/useetvlogo/MON.png" group-title="Kids",Moonbug
 https://streaming.indihometv.com/joss/134/moonbug/playlist.m3u8
@@ -69,7 +75,7 @@ https://streaming.indihometv.com/atm/hlsv3/mykids/playlist.m3u8
 #EXTINF:0 tvg-logo="http://yunus12.my.id/useetvlogo/mentaritv.png" group-title="Kids",Mentari tv
 https://streaming.indihometv.com/joss/134/mentaritv/playlist.m3u8
 
-#EXTINF:0 tvg-logo="http://images.indihometv.com/logo_euronews_big1.png" group-title="News",Euronews
+#EXTINF:0 tvg-logo="https://images.indihometv.com/logo_euronews_ver1.png" group-title="News",Euronews
 https://streaming.indihometv.com/joss/134/euronews720/playlist.m3u8
 
 
@@ -80,6 +86,10 @@ https://streaming.indihometv.com/joss/134/eatgo720/playlist.m3u8
 
 
 #EXTM3U billed-msg="😎⛔ Source Playlist Ini untuk percobaan saja ⛔😎"
+
+
+
+
 
 
 
