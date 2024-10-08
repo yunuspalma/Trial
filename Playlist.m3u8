@@ -63,8 +63,8 @@ https://streaming.indihometv.com/atm/hlsv3/zbioskop/playlist.m3u8
 https://streaming.indihometv.com/joss/194/maxstream/playlist.m3u8
 #EXTINF:0 tvg-logo="http://yunus12.my.id/useetvlogo/chinesedrama.png" group-title="Movies HD",Chinese Drama
 https://streaming.indihometv.com/joss/130/chinesedrama/playlist.m3u8
-
-
+#EXTINF:0 tvg-logo="http://yunus12.my.id/useetvlogo/atv.png" group-title="Movies HD",ATV
+https://streaming.indihometv.com/atm/hlsv3/atv/playlist.m3u8
 
 #EXTINF:0 tvg-logo="http://yunus12.my.id/useetvlogo/MON.png" group-title="Kids",Moonbug
 https://streaming.indihometv.com/joss/134/moonbug/playlist.m3u8
