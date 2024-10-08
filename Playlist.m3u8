@@ -10,34 +10,51 @@ https://streaming.indihometv.com/atm/hlsv3/trans7/playlist.m3u8
 #EXTINF:0 tvg-logo="http://yunus12.my.id/useetvlogo/logo_metrotv.png" group-title="Local",Metro TV
 https://streaming.indihometv.com/atm/hlsv3/METRO_TV/playlist.m3u8
 #EXTINF:0 tvg-logo="http://yunus12.my.id/useetvlogo/logo_kompastv.png" group-title="Local",Kompas TV
-https://cdn13jtedge.indihometv.com/atm/hlsv3/KOMPAS_TV/KOMPAS_TV-avc1_1200000=8-mp4a_96000=2.m3u8?encp=SsqCuDRhYgr3iBO4TLHLkg&uid=&expp=1728297580
+https://streaming.indihometv.com/atm/hlsv3/KOMPAS_TV/playlist.m3u8
 #EXTINF:0 tvg-logo="http://yunus12.my.id/useetvlogo/indosiar.png" group-title="Local",Indosiar
-https://cdn09jtedge.indihometv.com/atm/hlsv3/indosiar/indosiar-avc1_1200000=4-mp4a_96000=2.m3u8?encp=Ad4YPzAPzX_rNkWCuera-g&uid=&expp=1728298001
+https://streaming.indihometv.com/atm/hlsv3/indosiar/playlist.m3u8
 #EXTINF:0 tvg-logo="http://yunus12.my.id/useetvlogo/logo_net.png" group-title="Local",Net
-https://cdn09jtedge.indihometv.com/joss/133/bumperslate/chunklist_w424691353_b894100_sleng.m3u8?enc=YMPUZ7L6Zs-2hPraeWQZpw&uid=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiIzZGY1ZDRhOS0zOWE2LWY3ZDMyLTc1YzUyNGZhZWE2ZiIsImVtYWlsIjoib3JnYW5pemVya2JtQGdtYWlsLmNvbSIsImxvZ2luU3RhdHVzIjp0cnVlLCJzdWJzY3JpYmVyX2lkIjoiMjUwODQ4MSIsImZ1bGxuYW1lIjoiQUhNQUQgWVVOVVMiLCJkZXZpY2VJZCI6IloyVjBYMlJsZG1salpWOXBaSHd4T0RBdU1qUXlMakl6TkM0eU1UWXROalpCTXpRNU1VRTROalkwT0E9PSIsImlkIjozNzQ3MCwiZXhwIjoxNzI4Mjk0NzI2LCJpYXQiOjE3MjgyOTExMjYsImlzcyI6IlVzZWVUVkdPIn0.z27Lt-Uqlw01AO8XvNZNDAMUyDyvxZqYnnWIKyLGtEMMYf98ljZYoaiJqsYYCUIcCtMzXQajTfvPkaAY9htYkvzv-5-MXkFLS_mpb3dihtwbi1zaA755fx7OFtwmbpY0aQ_3oQCmtVWqcCl7paE9jFYdNNEN7kynijn8nmFyLzhSvhyr5I-FGpIFh1917h4v5564k2iqH-h6GR6AJU7_TnAYuJF8QTUM_BIbpoq3KiY_YfcOd8j3yxmY7yIfr8_2Cl4VGd-ruGVvWIUqYt_Se9oyBWJsDWO7WDU_cDSNkBvquG_SmYzqST80mNLxTPQAgWTVDFV7x-rOSn1MbrsGHvX8DoLJaEAYWkVdYNGMYlP4UT8legYEt7SMJ_I4X8Qk8lyks5bOAZScPuU20QaaI2NGw4K_4ZR-9N9UCDNELF3CtX3lkxIbtHur84PgiYSWkArPfzb9Vyclxq3vcJv-KKF4ksb9WIYwu02qE8IWBmy_m4IXk2LoKyXUi2Wqd0W5Y5DAEA9Nir8jsPoy4Uh5u7BjZPFS7s_uH75Q9aqzjCbq5PJ55miwqghyVhcXNm7govzBQj1o1pjmGcHDqjlMiuc7_W_CmD3dz43KvloJwJI4r3ZSSPkIlObgSJOvtafvOkaivJDMKfZEuVoxxDXHcks5WerzCcLiYQPfPfagyqE&exp=1728300493
+https://streaming.indihometv.com/joss/133/bumperslate/playlist.m3u8
+
 #EXTINF:0 tvg-logo="http://yunus12.my.id/useetvlogo/SINDONEWSTV.png" group-title="Local",SindoNews
-https://cdn13jtedge.indihometv.com/atm/hlsv3/mncnews/mncnews-avc1_1200000=4-mp4a_96000=2.m3u8?encp=oEEgT-BfT0WyfyKWOk8J2A&uid=&expp=1728302445
+https://streaming.indihometv.com/atm/hlsv3/mncnews/playlist.m3u8
 #EXTINF:0 tvg-logo="https://images.indihometv.com/logo_nusantaratv_small.png?v=1.1" group-title="Local",Nusantara TV
-https://cdn11jtedge.indihometv.com/atm/hlsv3/nusantaratv/nusantaratv-avc1_1200000=4-mp4a_96000=5.m3u8?encp=I7T_znKswcS_7aXylCRG5w&uid=&expp=1728302562
+https://streaming.indihometv.com/atm/hlsv3/nusantaratv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://yunus12.my.id/useetvlogo/inews.png" group-title="News",INews
-https://cdn09jtedge.indihometv.com/atm/hlsv3/inews/inews-avc1_1200000=13-mp4a_96000=5.m3u8?encp=URZi1pAdCNX1BM5CuO22Sg&uid=&expp=1728297740
+https://streaming.indihometv.com/atm/hlsv3/inews/playlist.m3u8
 #EXTINF:0 tvg-logo="http://yunus12.my.id/useetvlogo/BTV.png" group-title="Local",BTV
 https://streaming.indihometv.com/atm/hlsv3/beritasatu/playlist.m3u8
 
 #EXTINF:0 tvg-logo="http://yunus12.my.id/useetvlogo/seru_small.png" group-title="Music",Seru!
-https://cdn09jtedge.indihometv.com/joss/134/seru/chunklist_w994128021_b944100_sleng.m3u8?enc=h1Vc5HT9mFjYgJpULyvpWA&uid=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiIzZGY1ZDRhOS0zOWE2LWY3ZDMyLTc1YzUyNGZhZWE2ZiIsImVtYWlsIjoib3JnYW5pemVya2JtQGdtYWlsLmNvbSIsImxvZ2luU3RhdHVzIjp0cnVlLCJzdWJzY3JpYmVyX2lkIjoiMjUwODQ4MSIsImZ1bGxuYW1lIjoiQUhNQUQgWVVOVVMiLCJkZXZpY2VJZCI6IloyVjBYMlJsZG1salpWOXBaSHd4T0RBdU1qUXlMakl6TkM0eU1UWXROalpCTXpRNU1VRTROalkwT0E9PSIsImlkIjozNzQ3MCwiZXhwIjoxNzI4MjkwMzU5LCJpYXQiOjE3MjgyODY3NTksImlzcyI6IlVzZWVUVkdPIn0.ZydetutapMj9ssiQY_S2Mq11CQHC0Ua7F3QDIDS2O8_7qoLi10ewzG7oA1aaKlM8XhT3KyIWOM8M3KXvJ7Ny7N7beNESWnaKa0_D3gLndboCU0xQ-hKLOmHeENR7otrM7IyaYVbZyDFJ5LA8N3lMG7LxB9gy82EKbCLr6k-0LA97t_AvNAMQ31HXLOgSL7W8IQYixA2QyP42UqepxGnsbp_Cfx8OjhQI0gZnOCxxTSnYk6T8cnP_qT_rcFHxjDRFq2hRVs4I503rndD4FWvahXTCafYmB4lpWd91YhtKzwaj-QPns6QH--uv0APma_D56TBzXIt_0rgXgXBOTnN6VeTki-IEy7_SwqQPOrWwqPR1qX7VtbhYXEomhPW6KXnH4AbmlrQAzL2Xmq22tipmTDxP3k8amf7SPxV0SiioPoYtCOFj5G_Yhmhc6NEQD_GwjLlcrlWPQF9-kH510UTLcr6ud0zKnswp0mGWavpylpLhjXeCtHGnlA4VOCLpn2G6CGxmuBTo15FU2czMYSsT5RRIgROUZc9bg2kApZTCJVczJWMFe-WQRjHCEvlKZZ40SqRndX_6EZlDAcmImfGYjIJ3LDYUPhWFzjjvOJWmdUcj1QAUejU-Z0HCqLwnd82VpfbQR3a6WibNff5_znR1480OXLEYAKQnVxw-L7FVqTg&exp=1728296129
+https://streaming.indihometv.com/joss/134/seru/playlist.m3u8
 #EXTINF:0 tvg-logo="http://yunus12.my.id/useetvlogo/musikindo_small.png" group-title="Music",Musik Indonesia
-https://cdn09jtedge.indihometv.com/joss/134/musikindo720/chunklist_w1704868848_b944100_sleng.m3u8?enc=n-819twp2IT4l-6tuRq1-A&uid=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiIzZGY1ZDRhOS0zOWE2LWY3ZDMyLTc1YzUyNGZhZWE2ZiIsImVtYWlsIjoib3JnYW5pemVya2JtQGdtYWlsLmNvbSIsImxvZ2luU3RhdHVzIjp0cnVlLCJzdWJzY3JpYmVyX2lkIjoiMjUwODQ4MSIsImZ1bGxuYW1lIjoiQUhNQUQgWVVOVVMiLCJkZXZpY2VJZCI6IloyVjBYMlJsZG1salpWOXBaSHd4T0RBdU1qUXlMakl6TkM0eU1UWXROalpCTXpRNU1VRTROalkwT0E9PSIsImlkIjozNzQ3MCwiZXhwIjoxNzI4MjkwMzU5LCJpYXQiOjE3MjgyODY3NTksImlzcyI6IlVzZWVUVkdPIn0.ZydetutapMj9ssiQY_S2Mq11CQHC0Ua7F3QDIDS2O8_7qoLi10ewzG7oA1aaKlM8XhT3KyIWOM8M3KXvJ7Ny7N7beNESWnaKa0_D3gLndboCU0xQ-hKLOmHeENR7otrM7IyaYVbZyDFJ5LA8N3lMG7LxB9gy82EKbCLr6k-0LA97t_AvNAMQ31HXLOgSL7W8IQYixA2QyP42UqepxGnsbp_Cfx8OjhQI0gZnOCxxTSnYk6T8cnP_qT_rcFHxjDRFq2hRVs4I503rndD4FWvahXTCafYmB4lpWd91YhtKzwaj-QPns6QH--uv0APma_D56TBzXIt_0rgXgXBOTnN6VeTki-IEy7_SwqQPOrWwqPR1qX7VtbhYXEomhPW6KXnH4AbmlrQAzL2Xmq22tipmTDxP3k8amf7SPxV0SiioPoYtCOFj5G_Yhmhc6NEQD_GwjLlcrlWPQF9-kH510UTLcr6ud0zKnswp0mGWavpylpLhjXeCtHGnlA4VOCLpn2G6CGxmuBTo15FU2czMYSsT5RRIgROUZc9bg2kApZTCJVczJWMFe-WQRjHCEvlKZZ40SqRndX_6EZlDAcmImfGYjIJ3LDYUPhWFzjjvOJWmdUcj1QAUejU-Z0HCqLwnd82VpfbQR3a6WibNff5_znR1480OXLEYAKQnVxw-L7FVqTg&exp=1728296047
+https://streaming.indihometv.com/joss/134/musikindo720/playlist.m3u8
+#EXTINF:0 tvg-logo="http://yunus12.my.id/useetvlogo/citradangdut.png" group-title="Music",Citra Dangdut
+https://streaming.indihometv.com/joss/130/citradangdut/playlist.m3u8
 
 
 #EXTINF:0 tvg-logo="http://yunus12.my.id/useetvlogo/zbioskop.png" group-title="Movies HD",ZBioskop
-https://cdn14jtedge.indihometv.com/atm/hlsv3/zbioskop/zbioskop-avc1_600000=1-mp4a_96000=2.m3u8?encp=IyoPYEEulGWKq-_VEzrtww&uid=&expp=1728298316
+https://streaming.indihometv.com/atm/hlsv3/zbioskop/playlist.m3u8
 
 #EXTINF:0 tvg-logo="http://yunus12.my.id/useetvlogo/MAXSTREAM.png" group-title="Movies HD",Maxstream
 https://streaming.indihometv.com/joss/194/maxstream/playlist.m3u8
 #EXTINF:0 tvg-logo="http://yunus12.my.id/useetvlogo/chinesedrama.png" group-title="Movies HD",Chinese Drama
-https://cdn09jtedge.indihometv.com/joss/130/chinesedrama/chunklist_w2105437525_b1004100_sleng.m3u8?enc=hsczHn7VJRVLGYIoJp4PaQ&uid=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiIzZGY1ZDRhOS0zOWE2LWY3ZDMyLTc1YzUyNGZhZWE2ZiIsImVtYWlsIjoib3JnYW5pemVya2JtQGdtYWlsLmNvbSIsImxvZ2luU3RhdHVzIjp0cnVlLCJzdWJzY3JpYmVyX2lkIjoiMjUwODQ4MSIsImZ1bGxuYW1lIjoiQUhNQUQgWVVOVVMiLCJkZXZpY2VJZCI6IloyVjBYMlJsZG1salpWOXBaSHd4T0RBdU1qUXlMakl6TkM0eU1UWXROalpCTXpRNU1VRTROalkwT0E9PSIsImlkIjozNzQ3MCwiZXhwIjoxNzI4MjkwMzU5LCJpYXQiOjE3MjgyODY3NTksImlzcyI6IlVzZWVUVkdPIn0.ZydetutapMj9ssiQY_S2Mq11CQHC0Ua7F3QDIDS2O8_7qoLi10ewzG7oA1aaKlM8XhT3KyIWOM8M3KXvJ7Ny7N7beNESWnaKa0_D3gLndboCU0xQ-hKLOmHeENR7otrM7IyaYVbZyDFJ5LA8N3lMG7LxB9gy82EKbCLr6k-0LA97t_AvNAMQ31HXLOgSL7W8IQYixA2QyP42UqepxGnsbp_Cfx8OjhQI0gZnOCxxTSnYk6T8cnP_qT_rcFHxjDRFq2hRVs4I503rndD4FWvahXTCafYmB4lpWd91YhtKzwaj-QPns6QH--uv0APma_D56TBzXIt_0rgXgXBOTnN6VeTki-IEy7_SwqQPOrWwqPR1qX7VtbhYXEomhPW6KXnH4AbmlrQAzL2Xmq22tipmTDxP3k8amf7SPxV0SiioPoYtCOFj5G_Yhmhc6NEQD_GwjLlcrlWPQF9-kH510UTLcr6ud0zKnswp0mGWavpylpLhjXeCtHGnlA4VOCLpn2G6CGxmuBTo15FU2czMYSsT5RRIgROUZc9bg2kApZTCJVczJWMFe-WQRjHCEvlKZZ40SqRndX_6EZlDAcmImfGYjIJ3LDYUPhWFzjjvOJWmdUcj1QAUejU-Z0HCqLwnd82VpfbQR3a6WibNff5_znR1480OXLEYAKQnVxw-L7FVqTg&exp=1728296299
+https://streaming.indihometv.com/joss/130/chinesedrama/playlist.m3u8
 
+
+
+
+#EXTINF:0 tvg-logo="http://yunus12.my.id/useetvlogo/MON.png" group-title="Kids",Moonbug
+https://streaming.indihometv.com/joss/134/moonbug/playlist.m3u8
+#EXTINF:0 tvg-logo="http://images.indihometv.com/logo_duniaanak_big1.png" group-title="Kids",Dunia Anak
+https://streaming.indihometv.com/joss/130/duniaanak/playlist.m3u8
+#EXTINF:0 tvg-logo="http://yunus12.my.id/useetvlogo/mykids.png" group-title="Kids",My Kidz
+https://streaming.indihometv.com/atm/hlsv3/mykids/playlist.m3u8
+#EXTINF:0 tvg-logo="http://yunus12.my.id/useetvlogo/mentaritv.png" group-title="HD",Mentari tv
+https://streaming.indihometv.com/joss/134/mentaritv/playlist.m3u8
+
+#EXTINF:0 tvg-logo="http://images.indihometv.com/logo_euronews_big1.png" group-title="News",Euronews
+https://streaming.indihometv.com/joss/134/euronews720/playlist.m3u8
 
 #EXTM3U billed-msg="😎⛔ Source Playlist Ini untuk percobaan saja ⛔😎"
 
