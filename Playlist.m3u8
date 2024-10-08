@@ -15,7 +15,10 @@ https://streaming.indihometv.com/atm/hlsv3/KOMPAS_TV/playlist.m3u8
 https://streaming.indihometv.com/atm/hlsv3/indosiar/playlist.m3u8
 #EXTINF:0 tvg-logo="http://yunus12.my.id/useetvlogo/logo_net.png" group-title="Local",Net
 https://streaming.indihometv.com/joss/133/bumperslate/playlist.m3u8
-
+#EXTINF:0 tvg-logo="http://yunus12.my.id/useetvlogo/cnnindonesia.png" group-title="Local",CNN Indonesia
+https://streaming.indihometv.com/joss/133/cnnindonesia/playlist.m3u8
+#EXTINF:0 tvg-logo="http://yunus12.my.id/useetvlogo/MOJI.png" group-title="Local",MOJI
+https://streaming.indihometv.com/joss/134/ochannel720/playlist.m3u8
 #EXTINF:0 tvg-logo="http://yunus12.my.id/useetvlogo/SINDONEWSTV.png" group-title="Local",SindoNews
 https://streaming.indihometv.com/atm/hlsv3/mncnews/playlist.m3u8
 #EXTINF:0 tvg-logo="https://images.indihometv.com/logo_nusantaratv_small.png?v=1.1" group-title="Local",Nusantara TV
@@ -24,7 +27,16 @@ https://streaming.indihometv.com/atm/hlsv3/nusantaratv/playlist.m3u8
 https://streaming.indihometv.com/atm/hlsv3/inews/playlist.m3u8
 #EXTINF:0 tvg-logo="http://yunus12.my.id/useetvlogo/BTV.png" group-title="Local",BTV
 https://streaming.indihometv.com/atm/hlsv3/beritasatu/playlist.m3u8
+#EXTINF:0 tvg-logo="http://yunus12.my.id/useetvlogo/jaktv.png" group-title="Local",Jak TV
+https://streaming.indihometv.com/atm/hlsv3/JAK_TV/playlist.m3u8
+#EXTINF:0 tvg-logo="http://yunus12.my.id/useetvlogo/rtv.png" group-title="Local",RTV
+https://streaming.indihometv.com/atm/hlsv3/RAJAWALI_TV/playlist.m3u8
 
+
+
+
+#EXTINF:0 tvg-logo="http://yunus12.my.id/useetvlogo/prambors.png" group-title="Music",Prambors
+https://streaming.indihometv.com/atm/hlsv3/PRAMBORS_TV/playlist.m3u8
 #EXTINF:0 tvg-logo="http://yunus12.my.id/useetvlogo/seru_small.png" group-title="Music",Seru!
 https://streaming.indihometv.com/joss/134/seru/playlist.m3u8
 #EXTINF:0 tvg-logo="http://yunus12.my.id/useetvlogo/musikindo_small.png" group-title="Music",Musik Indonesia
@@ -55,6 +67,13 @@ https://streaming.indihometv.com/joss/134/mentaritv/playlist.m3u8
 
 #EXTINF:0 tvg-logo="http://images.indihometv.com/logo_euronews_big1.png" group-title="News",Euronews
 https://streaming.indihometv.com/joss/134/euronews720/playlist.m3u8
+
+
+
+
+#EXTINF:0 tvg-logo="http://images.indihometv.com/logo_eatgo_big1.png" group-title="Lifestyle",Eat N Go
+https://streaming.indihometv.com/joss/134/eatgo720/playlist.m3u8
+
 
 #EXTM3U billed-msg="😎⛔ Source Playlist Ini untuk percobaan saja ⛔😎"
 
